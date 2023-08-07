@@ -1,0 +1,17 @@
+C:\dev2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net7.0-windows\WinFormsCalculator.exe
+C:\dev2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net7.0-windows\WinFormsCalculator.deps.json
+C:\dev2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net7.0-windows\WinFormsCalculator.runtimeconfig.json
+C:\dev2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net7.0-windows\WinFormsCalculator.dll
+C:\dev2\WinFormsCalculator\WinFormsCalculator\bin\Debug\net7.0-windows\WinFormsCalculator.pdb
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.csproj.AssemblyReference.cache
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.Form1.resources
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.csproj.GenerateResource.cache
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.AssemblyInfoInputs.cache
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.AssemblyInfo.cs
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.csproj.CoreCompileInputs.cache
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.dll
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\refint\WinFormsCalculator.dll
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.pdb
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\WinFormsCalculator.genruntimeconfig.cache
+C:\dev2\WinFormsCalculator\WinFormsCalculator\obj\Debug\net7.0-windows\ref\WinFormsCalculator.dll
